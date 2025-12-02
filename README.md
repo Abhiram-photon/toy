@@ -8,8 +8,9 @@
 - what do you do
 - how is your life going
 ---
-# >**code**
-\#include <stdio.h>
+# >   **code**
+\
+#include <stdio.h>
 printf("sample code")
 \
 ---
@@ -19,10 +20,12 @@ printf("sample code")
 ![my pic](![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fpinterest--217932069461849169%2F)
 ---
 :lol:
+
 -[x] done
+
 -[] not done
+
 |roll|name|class|
 |---|---|---|
 |2425262662|abhiram|cse|
-
 
